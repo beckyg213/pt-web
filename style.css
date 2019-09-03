@@ -1,0 +1,98 @@
+h1 {
+  color:#fff;
+  font-family: 'Cinzel', serif;
+  background-color:#fff;
+   background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-blue-soft-background-backgroundsoft-backgroundbluesoft-colorlight-image_58554.jpg');
+   background-repeat:no-repeat;
+   border-radius: 23px; 
+  border: 4px double #add8e6;
+}
+
+
+p {
+   color: #000;
+font-family:times new roman;
+font-style:italic;
+font-weight:normal;
+text-decoration:underline;
+font-size:18px;
+text-align: center;
+
+
+}
+
+ul,ol { 
+list-style-type:georgian;
+list-style-position:outside;
+} 
+
+a {
+    color:#add8e6;
+}
+
+a:link {
+color:#add8e6; 
+   
+}
+
+a:visited {
+ color:#add8e6;
+}
+
+a:focus {
+  color:#add8e6;
+}
+
+a:hover {
+  color:#add8e6;
+}
+
+a:active {
+  color:#add8e6;
+}
+
+
+. first {
+  font-weight:bold;
+}
+
+. done {
+ text-decoration:line-through;
+}
+
+strong {
+ color:#add8e6;
+ font-size:22px;
+}
+
+sub , sup {
+  color:#add8e6;
+  text-decoration:none;
+  
+}
+
+. box {
+  
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
