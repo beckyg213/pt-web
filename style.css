@@ -3,7 +3,7 @@ h1 {
   font-family: 'Cinzel', serif;
   background-color:#fff;
    background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-blue-soft-background-backgroundsoft-backgroundbluesoft-colorlight-image_58554.jpg');
-   background-repeat:no-repeat;
+   background-repeat:repeat;
    border-radius: 23px; 
   border: 4px double #add8e6;
 }
