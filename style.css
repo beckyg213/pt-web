@@ -9,13 +9,27 @@ h1 {
 }
 
 
+.flex-container {
+  display: flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+  justify-content:space-around;
+  align-items:center;
+  align-content:space-between;
+  background-color: #add8e6;
+  
+  
+  
+}
+
+
 p {
    color: #000;
 font-family:times new roman;
-font-style:italic;
+font-style:normal;
 font-weight:normal;
-text-decoration:underline;
-font-size:18px;
+text-decoration:none;
+font-size:12px;
 text-align: center;
 
 
@@ -75,24 +89,4 @@ sub , sup {
   
   
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
