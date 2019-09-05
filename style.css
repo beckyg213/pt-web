@@ -8,6 +8,14 @@ h1 {
   border: 4px double #add8e6;
 }
 
+h2 {
+  color:#000;
+  font-family: 'Meddon', cursive;
+  background-color:transparent;
+   background-repeat:repeat;
+   border-radius: 23px; 
+}
+
 
 .flex-container {
   display: flex;
