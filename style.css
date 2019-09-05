@@ -6,6 +6,7 @@ h1 {
    background-repeat:repeat;
    border-radius: 23px; 
   border: 4px double #868a90;
+  width: 65%;
  
 }
 
@@ -17,6 +18,24 @@ h2 {
    border-radius: 23px; 
 }
 
+#content {
+  float: right ;
+  width: 50% ;
+  font-size:12px;
+  font-family:times new roman;
+}
+#navbar {
+  float: right;
+  width: 50%;
+    font-size:12px;
+  font-family:times new roman;
+}
+
+
+
+
+
+
 
 .flex-container {
   display: flex;
@@ -25,7 +44,9 @@ h2 {
   justify-content:space-around;
   align-items:center;
   align-content:space-between;
-  background-color: #add8e6;
+  background-color: #868a90;
+  color:#fff;
+  width:50%;
   
   
   
