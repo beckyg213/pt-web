@@ -3,10 +3,10 @@ h1 {
   font-family: 'Cinzel', serif;
   background-color:#fff;
    background-image: url('https://66.media.tumblr.com/99a159186d6c11faeb6582e517e28e49/tumblr_pxdk9898jR1ud8vbao2_640.png');
-   background-repeat:repeat;
+   background-repeat:no-repeat;
    border-radius: 23px; 
   border: 4px double #868a90;
-  width: 65%;
+  width: 50%;
  
 }
 
