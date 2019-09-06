@@ -1,37 +1,40 @@
 h1 {
-  color:#fff;
+  color: #fff;
   font-family: 'Cinzel', serif;
-  background-color:#fff;
-   background-image: url('https://66.media.tumblr.com/99a159186d6c11faeb6582e517e28e49/tumblr_pxdk9898jR1ud8vbao2_640.png');
-   background-repeat:no-repeat;
-   border-radius: 23px; 
+  background-color: #fff;
+  background-image: url('https://66.media.tumblr.com/99a159186d6c11faeb6582e517e28e49/tumblr_pxdk9898jR1ud8vbao2_640.png');
+  background-repeat: no-repeat;
+  border-radius: 23px;
   border: 4px double #868a90;
   width: 40%;
- 
+
 }
 
 h2 {
-  color:#000;
+  color: #000;
   font-family: 'Meddon', cursive;
-  background-color:transparent;
-   background-repeat:repeat;
-   border-radius: 23px; 
+  background-color: transparent;
+  background-repeat: repeat;
+  border-radius: 23px;
 }
 
 #content {
-  float: right ;
-  width: 50% ;
-  font-size:12px;
-  font-family:times new roman;
+  float: right;
+  width: 50%;
+  font-size: 12px;
+  font-family: times new roman;
 }
+
 #navbar {
   float: right;
   width: 50%;
-    font-size:12px;
-  font-family:times new roman;
+  font-size: 12px;
+  font-family: times new roman;
 }
 
-
+#indent {
+  padding:30px;
+}
 
 
 
@@ -39,83 +42,82 @@ h2 {
 
 .flex-container {
   display: flex;
-  flex-direction:row;
-  flex-wrap:wrap;
-  justify-content:space-around;
-  align-items:center;
-  align-content:space-between;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  align-content: space-between;
   background-color: #868a90;
-  color:#fff;
-  width:50%;
-  
-  
-  
+  color: #fff;
+  width: 50%;
+
+
+
 }
 
 
 p {
-   color: #000;
-font-family:times new roman;
-font-style:normal;
-font-weight:normal;
-text-decoration:none;
-font-size:12px;
-text-align: center;
+  color: #000;
+  font-family: times new roman;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 12px;
+  text-align: center;
 
 
 }
 
-ul,ol { 
-list-style-type:georgian;
-list-style-position:outside;
-} 
+ul,
+ol {
+  list-style-type: georgian;
+  list-style-position: outside;
+}
 
 a {
-    color:#add8e6;
+  color: #add8e6;
 }
 
 a:link {
-color:#add8e6; 
-   
+  color: #add8e6;
+
 }
 
 a:visited {
- color:#add8e6;
+  color: #add8e6;
 }
 
 a:focus {
-  color:#add8e6;
+  color: #add8e6;
 }
 
 a:hover {
-  color:#add8e6;
+  color: #add8e6;
 }
 
 a:active {
-  color:#add8e6;
+  color: #add8e6;
 }
 
 
 . first {
-  font-weight:bold;
+  font-weight: bold;
 }
 
 . done {
- text-decoration:line-through;
+  text-decoration: line-through;
 }
 
 strong {
- color:#add8e6;
- font-size:22px;
+  color: #add8e6;
+  font-size: 22px;
 }
 
-sub , sup {
-  color:#add8e6;
-  text-decoration:none;
-  
+sub,
+sup {
+  color: #add8e6;
+  text-decoration: none;
+
 }
 
-. box {
-  
-  
-}
+. box {}
